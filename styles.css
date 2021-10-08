@@ -1,0 +1,27 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.recipe-list {
+    background-color: yellow;
+    color: white;
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+h2 {
+    background-color: tomato;
+}
+
+h3 {
+    background-color: yellowgreen;
+}
+
+.steps {
+    background-color: violet;
+}
